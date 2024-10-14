@@ -1,4 +1,4 @@
-#                          Hi👋🏻, I'm Diganth Gowda A
+# \t\t Hi👋🏻, I'm Diganth Gowda A
 ##\t \t passionate about solving problems in logical way.
 • 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊.<br>• 🎤Any suggestion to me from your side?<br>• Reach out to me at diganthgowda.a2004@gmail.com
 
