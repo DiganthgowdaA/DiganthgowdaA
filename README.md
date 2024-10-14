@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=DiganthgowdaA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-• 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊.<br>• 🎤Any suggestion to me from your side?<br>• Reach out to me at diganthgowda.a2004@gmail.com
+• 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊.<br>• 🎤Any suggestion to me from your side?<br>• 📧Reach out to me at diganthgowda.a2004@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DiganthgowdaA&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -19,6 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DiganthgowdaA&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
+# 𝕿𝖍𝖆𝖓𝖐 𝖞𝖔𝖚 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊.
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
