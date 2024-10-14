@@ -1,5 +1,8 @@
-# \t\t Hi👋🏻, I'm Diganth Gowda A
-##\t \t passionate about solving problems in logical way.
+# Hi👋🏻, I'm Diganth Gowda A
+# Passionate about solving problems in logical way.
+
+[![](https://visitcount.itsvg.in/api?id=DiganthgowdaA&icon=0&color=0)](https://visitcount.itsvg.in)
+
 • 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊.<br>• 🎤Any suggestion to me from your side?<br>• Reach out to me at diganthgowda.a2004@gmail.com
 
 
@@ -17,6 +20,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=DiganthgowdaA&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DiganthgowdaA&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
