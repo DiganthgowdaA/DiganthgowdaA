@@ -1,5 +1,5 @@
 # Hi👋🏻, I'm Diganth Gowda A
-# Passionate about solving problems in logical way.
+# /tPassionate about solving problems in logical way.
 
 [![](https://visitcount.itsvg.in/api?id=DiganthgowdaA&icon=0&color=0)](https://visitcount.itsvg.in)
 
