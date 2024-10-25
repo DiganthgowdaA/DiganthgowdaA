@@ -1,6 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Diganth Gowda A</h1>
 
-
 [![](https://visitcount.itsvg.in/api?id=DiganthgowdaA&icon=0&color=0)](https://visitcount.itsvg.in)
 
 • 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊.<br>• 🎤Any suggestion to me from your side?<br>• 📧Reach out to me at diganthgowda.a2004@gmail.com
