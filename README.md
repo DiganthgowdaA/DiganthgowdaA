@@ -1,5 +1,20 @@
 # <h1 align="center">Hi 👋, I'm Diganth Gowda A</h1>
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+about+learning+new +challenges+&;++;Self-taught+Front-End+Developer,; Information+Science+Student 🧑🏻‍💻,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
+</p>
+
+
+<br>
+
+
+
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=DiganthgowdaA&icon=0&color=0)](https://visitcount.itsvg.in)
 
 • 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊.<br>• 🎤Any suggestion to me from your side?<br>• 📧Reach out to me at diganthgowda.a2004@gmail.com
