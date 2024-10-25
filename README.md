@@ -1,20 +1,11 @@
 # <h1 align="center">Hi 👋, I'm Diganth Gowda A</h1>
 
 
-<p align="center">
-  <a href="https://github.com/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+about+working+on+code&hearts;++;Self-taught+Front-End+Developer,; Information+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
-</p>
-
-
-<br>
-
-
-
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+about+learning code!; Information+Science+student+🧑🏻‍💻+!; Active+learning!; Happy+&+very+excitement+to+learn+new+stuff..!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
