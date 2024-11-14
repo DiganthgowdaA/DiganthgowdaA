@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=DiganthgowdaA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-• 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊.<br>• 🎤Any suggestion to me from your side?<br>• 📧Reach out to me at diganthgowda.a2004@gmail.com
+• 🧑🏻‍🎓 I am a student.<br>• 📖 I’m currently learning - Full Stack (HTML, CSS, JavaScript, DSA, SQL).<br>• 🎤Any suggestion to me from your side?<br>• 📧Reach out to me at diganthgowda.a2004@gmail.com
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DiganthgowdaA&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
